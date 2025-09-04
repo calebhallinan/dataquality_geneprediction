@@ -8,4 +8,4 @@ More details can be found here.
 
 #### Benchmark pipeline
 
-(add figure 1 here)
+![Benchmark Pipeline](fig1_improvedgeneprediction.png)
