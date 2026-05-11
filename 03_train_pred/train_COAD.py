@@ -16,8 +16,8 @@ import datetime
 ##############################################################################################################################################
 
 # method
-method = 'visiumhd' # cosmx xenium visiumhd
-patch_size = 210 # 250 or 210
+method = 'visiumhd' # cosmx xenium visiumhd stereoseq
+patch_size = 210 # 250 or 210 or 110
 
 
 # combined data
